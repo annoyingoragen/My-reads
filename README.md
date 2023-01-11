@@ -5,7 +5,6 @@
 
 <h3 align="center">My reads</h3>
 
-as
 <p align="center"> This is the react Js project.The main task of this React project are the following:
 
 1.  Display books on the main page based on three categories or shelves. namely, Currently Reading, Want to Read and Read.
